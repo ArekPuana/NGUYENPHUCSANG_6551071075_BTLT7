@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|c:\\users\\sangn\\downloads\\c#\\quanlylichkham\\quanlylichkham\\models\\ankhangcliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|solutionrelative:quanlylichkham\\models\\ankhangcliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|c:\\users\\sangn\\downloads\\c#\\quanlylichkham\\quanlylichkham\\formbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|solutionrelative:quanlylichkham\\formbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|c:\\users\\sangn\\downloads\\c#\\quanlylichkham\\quanlylichkham\\formbacsi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|solutionrelative:quanlylichkham\\formbacsi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|c:\\users\\sangn\\downloads\\c#\\quanlylichkham\\quanlylichkham\\formbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|solutionrelative:quanlylichkham\\formbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|c:\\users\\sangn\\downloads\\c#\\quanlylichkham\\quanlylichkham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|solutionrelative:quanlylichkham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|c:\\users\\sangn\\downloads\\c#\\quanlylichkham\\quanlylichkham\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|solutionrelative:quanlylichkham\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|c:\\users\\sangn\\downloads\\c#\\quanlylichkham\\quanlylichkham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|solutionrelative:quanlylichkham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|c:\\users\\sangn\\downloads\\c#\\quanlylichkham\\quanlylichkham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D466CC38-3534-4FBB-A0C6-28D8BB1606CB}|QuanLyLichKham\\QuanLyLichKham.csproj|solutionrelative:quanlylichkham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBacSi.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\FormBacSi.cs",
+              "RelativeDocumentMoniker": "QuanLyLichKham\\FormBacSi.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\FormBacSi.cs",
+              "RelativeToolTip": "QuanLyLichKham\\FormBacSi.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwCUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:55:26.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBacSi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\FormBacSi.cs",
+              "RelativeDocumentMoniker": "QuanLyLichKham\\FormBacSi.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\FormBacSi.cs [Design]",
+              "RelativeToolTip": "QuanLyLichKham\\FormBacSi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:55:15.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyLichKham\\Program.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Program.cs",
+              "RelativeToolTip": "QuanLyLichKham\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:54:16.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyLichKham\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Form1.Designer.cs",
+              "RelativeToolTip": "QuanLyLichKham\\Form1.Designer.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAswDwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:54:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnKhangClinicContext.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Models\\AnKhangClinicContext.cs",
+              "RelativeDocumentMoniker": "QuanLyLichKham\\Models\\AnKhangClinicContext.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Models\\AnKhangClinicContext.cs",
+              "RelativeToolTip": "QuanLyLichKham\\Models\\AnKhangClinicContext.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswFQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:52:58.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBacSi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\FormBacSi.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyLichKham\\FormBacSi.Designer.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\FormBacSi.Designer.cs",
+              "RelativeToolTip": "QuanLyLichKham\\FormBacSi.Designer.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAswOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:55:33.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyLichKham\\Form1.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Form1.cs",
+              "RelativeToolTip": "QuanLyLichKham\\Form1.cs",
+              "ViewState": "AgIAAAkCAAAAAAAAAAAswB0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:53:43.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyLichKham\\Form1.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLyLichKham\\QuanLyLichKham\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyLichKham\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:50:07.699Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 420,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
